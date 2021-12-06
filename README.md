@@ -1,6 +1,7 @@
 # internet_radio
 
 Physical buttons were used so that a visually impaired person can use it.
+![](https://github.com/qisun1/internet_radio/blob/main/radio.jpg?raw=true)
 
 #### Hareware:
 
