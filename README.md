@@ -10,12 +10,12 @@
 
 Circuit modified from https://circuitdigest.com/microcontroller-projects/esp32-based-internet-radio-using-max98357a-i2s-amplifier-board
 
-I2S_DOUT  -  GPIO12
-I2S_BCLK  -  GPIO14
-I2S_LRC  -  GPIO27
-Volume Control Pot  -  GPIO35
-channelUp button  -  GPIO33
-channelDown button  -  32
+I2S_DOUT  -  GPIO12; 
+I2S_BCLK  -  GPIO14; 
+I2S_LRC  -  GPIO27; 
+Volume Control Pot  -  GPIO35; 
+channelUp button  -  GPIO33; 
+channelDown button  -  32; 
 
 ##### Note:
 
