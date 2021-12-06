@@ -1,5 +1,7 @@
 # internet_radio
 
+Physical buttons were used so that a visually impaired person can use it.
+
 #### Hareware:
 
 1. Esp32 module;
