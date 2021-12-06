@@ -3,7 +3,7 @@
 Physical buttons were used so that a visually impaired person can use it.
 ![](https://github.com/qisun1/internet_radio/blob/main/radio.jpg?raw=true)
 
-#### Hareware:
+##### Hareware:
 
 1. Esp32 module;
 2. MAX98357 module: I2S decoder and amplifier;
@@ -19,6 +19,9 @@ I2S_LRC  -  GPIO27;
 Volume Control Pot  -  GPIO35; 
 channelUp button  -  GPIO33; 
 channelDown button  -  32; 
+
+##### Build:
+Differen sizes of Hole saws or drill bits were used to cut out holes in the plastic box. 
 
 ##### Note:
 
