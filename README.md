@@ -8,8 +8,9 @@ Physical buttons were used so that a visually impaired person can use it.
 1. Esp32 module;
 2. MAX98357 module: I2S decoder and amplifier;
 
-3. Potentiometers with Switch 
+3. Potentiometers with Switch;
 4. Two Push buttons for switching stations;
+5. LED light;
 
 Circuit modified from https://circuitdigest.com/microcontroller-projects/esp32-based-internet-radio-using-max98357a-i2s-amplifier-board
 
@@ -22,6 +23,7 @@ channelDown button  -  32;
 
 ##### Build:
 Differen sizes of Hole saws or drill bits were used to cut out holes in the plastic box. 
+Hot glue was used to fix the buttons, LED, and speaker to the box cover.
 
 ##### Note:
 
