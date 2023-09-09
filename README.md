@@ -27,8 +27,7 @@ Hot glue was used to fix the buttons, LED, and speaker to the box cover.
 
 ##### Note:
 
-1. The code does not work with Esp32 Arduino Core Library 2.0. V 1.0.6 was used.
-2. The volume control pin (connected to pot) must be connected to one of the ADC1 pins (GPIO 32 or above). The ADC2 pins do not work with Wifi on.
-3. Extra libraries: [schreibfaul1](https://github.com/schreibfaul1)/**[ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)**
+1. The volume control pin (connected to pot) must be connected to one of the ADC1 pins (GPIO 32 or above). The ADC2 pins do not work with Wifi on.
+2. Extra libraries: [schreibfaul1](https://github.com/schreibfaul1)/**[ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)**
 
 I modified Audio.h file, increasing the value of "m_buffSizeRAM"  from 1600 * 5 to 1600 *24. Otherwise, the stream constantly pause for stations with poor connections.
