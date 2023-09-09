@@ -5,7 +5,7 @@ Physical buttons were used so that a visually impaired person can use it.
 
 ##### Hareware:
 
-1. Esp32 module;
+1. Esp32 module (The ESP32-audioI2S library used in this sketch only works on multi-core ESP32 chips like the ESP32-WROOM-32. It does not work on the ESP32-S2 or the ESP32-C3 );
 2. MAX98357 module: I2S decoder and amplifier;
 
 3. Potentiometers with Switch;
