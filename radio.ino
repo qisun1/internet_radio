@@ -14,10 +14,10 @@
 Audio audio;
 
 const int stationCount =6;
-String stations[stationCount] = {"https://lhttp.qingting.fm/live/386/64k.mp3", 
-                                  "https://lhttp.qingting.fm/live/1223/64k.mp3", 
-                                  "https://lhttp.qingting.fm/live/20014/64k.mp3", 
-                                  "https://lhttp.qingting.fm/live/4960/64k.mp3",  
+String stations[stationCount] = {"https://lhttp.qingting.fm/live/20013/64k.mp3", 
+                                  "https://lhttp.qingting.fm/live/5055/64k.mp3", 
+                                  "https://lhttp.qingting.fm/live/4938/64k.mp3", 
+                                  "https://lhttp.qingting.fm/live/4944/64k.mp3",  
                                   "https://lhttp.qingting.fm/live/20012/64k.mp3", 
                                   "https://lhttp.qingting.fm/live/1163/64k.mp3"};
 
